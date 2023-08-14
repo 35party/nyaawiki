@@ -1,7 +1,5 @@
 **请注意：本站为官方 Wiki 之第三方镜像，仅供官方服务无法访问时备用**
 
-**当前 Commit 版本：[#6afef33f521813941bd8c522a794102a814ef490](https://github.com/NyaaCat/wiki/commit/6afef33f521813941bd8c522a794102a814ef490)**
-
 欢迎来到 NyaaWiki ~ 知识库重建中喵\~<br />
 
 ### 关于 NyaaCat
